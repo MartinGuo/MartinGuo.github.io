@@ -1,6 +1,6 @@
 #Hux Blog
 
-###[View Live Hux Blog &rarr;](http://huxpro.github.io)
+###[View Live MartinGuo Blog &rarr;](https://martinguo.github.io/)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
@@ -17,7 +17,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 **[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 
-## Porting 
+## Porting
 
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
 - [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
