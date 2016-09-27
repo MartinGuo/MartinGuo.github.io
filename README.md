@@ -1,6 +1,6 @@
-# MartinGuo  郭绍民
+# VickyWu 吴宏珊
 
-This is a blog created by guoshaomin. The blog is live at [MartinGuo](https://martinguo.github.io/).
+This is a blog created by guoshaomin. The blog is live at [VickyWu](https://wuhongshan.github.io/).
 
 ## Thanks
 
