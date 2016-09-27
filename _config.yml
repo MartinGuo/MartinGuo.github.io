@@ -1,22 +1,22 @@
 # Site settings
-title: MartinGuo
-SEOTitle: 郭绍民的博客 | MartinGuo Blog
+title: VickyWu
+SEOTitle: 吴宏珊的博客 | VickyWu Blog
 header-img: img/home-bg.jpg
-email: guo_shao_min@163.com
+email: wuhongshan53@126.com
 description: "与你一起发现更大的世界。"
-keyword: "guoshaomin, MartinGuo, Blogs, PHP, Internet, "
-url: "https://martinguo.github.io/"              # your host, for absolute URL
+keyword: "wuhongshan, VickyWu, Blogs, JS,HTML,CSS, Internet, "
+url: "https://wuhongshan.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     郭绍民
-zhihu_username:     郭绍民
-github_username:    MartinGuo
+weibo_username:     吴宏珊53
+zhihu_username:     吴宏珊
+github_username:    wuhongshan
 #twitter_username:
-facebook_username:  郭绍民
+# facebook_username:  吴宏珊
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,19 +51,19 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: gsm
+# duoshuo_username: gsm
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
