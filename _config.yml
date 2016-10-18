@@ -1,7 +1,7 @@
 # Site settings
 title: MartinGuo
 SEOTitle: 郭绍民的博客 | MartinGuo Blog
-header-img: img/home-bg.jpg
+header-img: img/header.jpg
 email: guo_shao_min@163.com
 description: "与你一起发现更大的世界。"
 keyword: "guoshaomin, MartinGuo, Blogs, PHP, Internet, "
@@ -12,8 +12,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: true
-weibo_username:     郭绍民
-zhihu_username:     郭绍民
+weibo_username:     2394243863
+zhihu_username:     guo-shao-min
 github_username:    MartinGuo
 #twitter_username:
 facebook_username:  郭绍民
