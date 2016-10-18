@@ -1,6 +1,6 @@
 # VickyWu 吴宏珊
 
-This is a blog created by guoshaomin. The blog is live at [VickyWu](https://wuhongshan.github.io/).
+This is a blog created by wuhongshan. The blog is live at [VickyWu](https://wuhongshan.github.io/).
 
 ## Thanks
 
